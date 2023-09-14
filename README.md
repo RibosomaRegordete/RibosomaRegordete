@@ -42,8 +42,8 @@
 <!-- Because we are humans before researchers -->
 ## Hobbies
 
-- Hooby #1
-- Hooby #2
+- Calistenia
+- Anime
 
 
 ## Contact
