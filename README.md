@@ -1,14 +1,12 @@
-# Hola, soy Alejandro Barrios Navas
+# Hola, soy Alejandro Barrios Navas Parra
 
 <!-- A short sentence that can  describe who you are -->
 
 <!-- All of your education background -->
 ## Education
 
-- Bachelor: (STUDENT/DEGREE) at/from [UNIVERSITY](LINK UNIVERSITY)
-- Master: (STUDENT/DEGREE) at/from [UNIVERSITY](LINK UNIVERSITY)
--  Doctorate: (STUDENT/DEGREE) at/from [UNIVERSITY](LINK UNIVERSITY)
-- Post Doctorate: (STUDENT/DEGREE) at/from [UNIVERSITY](LINK UNIVERSITY)
+- Bachelor of Microbiology: STUDENT at [UNIVERSITY](LINK UNIVERSITY)
+- Bachelor of Industrial Engineering: STUDENT at [UNIVERSITY](LINK UNIVERSITY)
 
 <!-- While BIOMAC is our common group, the collaboration between groups and affiliations are encourage -->
 ## Affiliations
